@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Mishra</h1>
-<h2 align="center"> Currently I am in my BTECH ECE 3rd year
+<h2 align="center"> Currently I am in BIT Mesra, BTECH 2026 - ECE.
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=babubisleri001&label=Profile%20views&color=0e75b6&style=flat" alt="babubisleri001" /> </p>
