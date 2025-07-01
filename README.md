@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **SwipeMate Application**
 
-- 🌱 I’m currently learning **NEXTJS, Python, Golang**
+- 🌱 I’m currently learning **NEXTJS, Golang, Low Level Design**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-shubham-mishras-projects-b3c4c8a2.vercel.app/](https://portfolio-shubham-mishras-projects-b3c4c8a2.vercel.app/)
 
@@ -14,12 +14,12 @@
 
 - 📫 How to reach me **mishrashubham10639@gmail.com**
 
-- 📄 Know about my experiences ([-Resume](https://drive.google.com/file/d/1_4W3bRfVKeKIoh7_eE1fLFOK5FbnKA3l/view?usp=sharing))
+- 📄 Know about my experiences (-Resume(https://drive.google.com/file/d/1_4W3bRfVKeKIoh7_eE1fLFOK5FbnKA3l/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/shubham-mishra-75340a24b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shubham-mishra-75340a24b" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/babubisleri01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="babubisleri01" height="30" width="40" /></a>
+<a href="[](https://leetcode.com/u/Shubham_15_/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="babubisleri01" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
